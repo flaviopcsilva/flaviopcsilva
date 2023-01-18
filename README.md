@@ -1,6 +1,6 @@
 # Olá Pessoal!
 Estou cursando **tecnólogo em análise e desenvolvimento de sistemas** na Uniasselvi, e cursando **BackEnd na Cubos Academy**.
-Em março de 2023 vou está concluindo o curso de BackEnd, e minha pretensão é migrar para área de tecnologia e desenvolvimento.
+Em Maio de 2023 vou está concluindo o curso de BackEnd, e minha pretensão é migrar para área de tecnologia e desenvolvimento.
 E não pretendo parar, pois terminando o curso de BackEnd, já estou visando o curso de FrontEnd para me tornar FullStack e também aprender outras linguagens de programação e me aprofundar mais na área.
 
 ### Para me encontrar:

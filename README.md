@@ -17,4 +17,4 @@ E não pretendo parar, pois terminando o curso de BackEnd, já estou visando o c
 
 MDPF :pray:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/flaviopcsilva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviopcsilva&layout=compact&custom_title=Linguagens%20%mais%20%utilizadas)](https://github.com/flaviopcsilva)

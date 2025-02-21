@@ -16,6 +16,7 @@ E não pretendo parar, já estou fazendo o curso de FrontEnd para me tornar Full
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![express](https://camo.githubusercontent.com/28dbf3b23a3ce9530e3f89a548b08789d4432a5141ea0863c39e4e84a8ae8f52/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f747970657363726970743f636f6c6f723d626c61636b266c6162656c3d54797065736372697074266c6f676f3d74797065736372697074266c6f676f436f6c6f723d626c7565)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
 

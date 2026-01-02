@@ -26,4 +26,4 @@ E não pretendo parar, já estou fazendo o curso de FrontEnd para me tornar Full
 
 MDPF :pray:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviopcsilva&layout=compact&custom_title=Linguagens%20%mais%20%utilizadas)](https://github.com/flaviopcsilva)
+[![Top Langs](github-readme-stats.vercel.app)](https://github.com/flaviopcsilva)

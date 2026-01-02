@@ -1,7 +1,7 @@
 # Olá Pessoal!
 Sou formado em **BackEnd na Cubos Academy**.
 Minha pretensão é migrar para área de tecnologia e desenvolvimento.
-Estou cursando **Analise e Desenvolvimento de Software**
+Estou cursando **Tecnologo em Análise e Desenvolvimento de Sistemas**
 Fiz Cursos para me Especializar em **FrontEnd** me tornando **Devenvolvedor FullStack**.
 Estou a disposição para trabalhos **freelancer, PJ ou CLT** e tenho disponibilidade para **viagens**.
 

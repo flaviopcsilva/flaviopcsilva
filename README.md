@@ -12,6 +12,7 @@ Confira meus projetos mobile React Native e NestJS:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-cardoso-093391139)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://is.gd/ADTY8c)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/5521974863278?text=Olá,%20Você%20está%20entrando%20em%20uma%20conversa%20com%20Flávio%20Cardoso)
 
 ### Hards Skills:
 

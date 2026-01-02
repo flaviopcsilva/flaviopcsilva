@@ -1,7 +1,12 @@
 # Olá Pessoal!
 Sou formado em **BackEnd na Cubos Academy**.
 Minha pretensão é migrar para área de tecnologia e desenvolvimento.
-E não pretendo parar, já estou fazendo o curso de FrontEnd para me tornar FullStack e também aprender outras linguagens de programação e me aprofundar mais na área.
+Estou cursando **Analis e Desenvolvimento de Software**
+Fiz Cursos para me Especializar em **FrontEnd**
+Segue Portifólios:
+### 📱 Portfólio Mobile
+Confira meus projetos mobile React Native e NestJS:  
+[Portfolio Mobile](https://github.com/seu-usuario/portfolio-mobile)
 
 ### Para me encontrar:
 

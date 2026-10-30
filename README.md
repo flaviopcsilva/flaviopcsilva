@@ -11,7 +11,7 @@ Segue Portifólios:
 ### 📱 Portfólio API Biblioteca
 Confira meus projetos:  
 [Portfolio Mobile](https://github.com/flaviopcsilva/portifoliomobile)
-[Portfolio API Biblioteca]([https://github.com/flaviopcsilva/portifoliomobile](https://github.com/flaviopcsilva/biblioteca-avancada-backend)
+[Portfolio API Biblioteca](https://github.com/flaviopcsilva/biblioteca-avancada-backend)
 
 ### Para me encontrar:
 

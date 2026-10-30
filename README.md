@@ -8,8 +8,11 @@ Estou a disposição para trabalhos **freelancer, PJ ou CLT** e tenho disponibil
 
 Segue Portifólios:
 ### 📱 Portfólio Mobile
-Confira meus projetos mobile React Native e NestJS:  
+### 📱 Portfólio API Biblioteca
+Confira meus projetos:  
 [Portfolio Mobile](https://github.com/flaviopcsilva/portifoliomobile)
+[Portfolio API Biblioteca]([https://github.com/flaviopcsilva/portifoliomobile](https://github.com/flaviopcsilva/biblioteca-avancada-backend
+))
 
 ### Para me encontrar:
 

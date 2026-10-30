@@ -30,7 +30,8 @@ Confira meus projetos mobile React Native e NestJS:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)
 ![React Native](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
+![Python](https://shields.io)
+
 
 
 MDPF :pray:

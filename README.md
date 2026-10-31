@@ -39,6 +39,6 @@ Confira meus projetos:
 
 MDPF :pray:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviopcsilva&layout=compact&theme=dark)](https://github.com/flaviopcsilva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviopcsilva&layout=compact&theme=dark)(https://github.com/flaviopcsilva)
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flaviopcsilva&layout=compact&theme=dark" alt="Top Langs" />
+
